@@ -3,7 +3,7 @@ figure{
     margin: 0px;
 }
 nav{
-    display: flex;
+    display: block;
     width: 371px;
     height: 28px;
     left: 743px;
